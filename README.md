@@ -2,6 +2,13 @@
 
 Production-ready Flask web application for scoring credit card transactions using the Kaggle Credit Card Fraud Detection dataset (`mlg-ulb/creditcardfraud`). The app exposes a `/predict` API and a responsive UI for manual Amount input or full JSON payloads.
 
+Live demo: https://fraud-detection-app-uo6n.onrender.com/
+
+GitHub: https://github.com/Arbab-ofc/fraud-detection-app
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-00C853?style=for-the-badge&logo=render&logoColor=white)](https://fraud-detection-app-uo6n.onrender.com/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arbab-ofc/fraud-detection-app)
+
 ## Features
 
 - Flask backend with JSON prediction API
